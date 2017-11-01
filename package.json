@@ -1,0 +1,27 @@
+{
+  "name": "bs-ddos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ddos.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "require-ls": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:blockstarter/bs-ddos.git"
+  },
+  "keywords": [
+    "bs-ddos"
+  ],
+  "author": "Blockstarter Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockstarter/bs-ddos/issues"
+  },
+  "homepage": "https://github.com/blockstarter/bs-ddos#readme"
+}
